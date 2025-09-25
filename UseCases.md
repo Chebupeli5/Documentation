@@ -49,8 +49,10 @@
   
   
   **Диаграмма Use Cases:**
-<img width="3095" height="233" alt="Diagr" src="https://github.com/user-attachments/assets/9afe6e3d-d836-47a6-9615-2f806924ebd4" />
+<img width="456" height="993" alt="image" src="https://github.com/user-attachments/assets/4e259527-7a03-4e77-acbc-5a0f165e4951" />
+
 
   
+
 
 
