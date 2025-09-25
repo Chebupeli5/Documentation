@@ -49,6 +49,8 @@
   
   
   **Диаграмма Use Cases:**
-![alt text](https://github.com/Chebupeli5/Documentation/blob/main/Diagr.png)
+<img width="3095" height="233" alt="Diagr" src="https://github.com/user-attachments/assets/9afe6e3d-d836-47a6-9615-2f806924ebd4" />
+
   
+
 
